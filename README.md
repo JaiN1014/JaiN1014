@@ -5,9 +5,15 @@
       365-days Github Contributions <br>
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me:
-
-<img Src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" height="50px" target="blank" href="https://www.linkedin.com/in/jaibhagwan-jindal/"> <br>
-<img src="https://img.freepik.com/premium-vector/modern-badge-logo-instagram-icon_578229-124.jpg?size=338&ext=jpg&ga=GA1.1.1412446893.1704844800&semt=ais" height="50px" target="blank" href="https://www.instagram.com/jai.n_jindal">
+<br>
+<br>
+<a href="https://www.linkedin.com/in/jaibhagwan-jindal/">
+<img Src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" height="50px" target="blank"> 
+</a> 
+<a href="https://www.instagram.com/jai.n_jindal">
+<img src="https://img.freepik.com/premium-vector/modern-badge-logo-instagram-icon_578229-124.jpg?size=338&ext=jpg&ga=GA1.1.1412446893.1704844800&semt=ais" height="50px" target="blank">
+</a>
+ 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JaiN1014" alt="JaiN1014" /></a> </p>
 <!---
 JaiN1014/JaiN1014 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
