@@ -14,7 +14,7 @@
 <img src="https://img.freepik.com/premium-vector/modern-badge-logo-instagram-icon_578229-124.jpg?size=338&ext=jpg&ga=GA1.1.1412446893.1704844800&semt=ais" height="50px" target="blank">
 </a>
  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JaiN1014" alt="JaiN1014" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=JaiN1014&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 JaiN1014/JaiN1014 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
