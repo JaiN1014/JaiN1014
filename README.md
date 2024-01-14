@@ -15,6 +15,9 @@
 </a>
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=JaiN1014&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=JaiN1014&show_icons=true&theme=radical" alt="GitHub Stats">
+</div>
 <!---
 JaiN1014/JaiN1014 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
