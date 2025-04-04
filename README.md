@@ -1,11 +1,14 @@
 <h1 align="center">👋 Hi, I'm Jaibhagwan Jindal</h1>
-<div align="center">
+<section>
+  <div align="center">
   <img src="https://drive.google.com/uc?id=1iqhuORVSYdxpMQ6DSWqrqUWMd_PqlYl8" alt="Jaibhagwan Jindal's Profile Picture" width="200" style="border-radius: 50%;">
 </div>
 
 <p align="center">
   Passionate coder | Always learning | Let's connect!
 </p>
+
+</section>
 
 <br>
 
